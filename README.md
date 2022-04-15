@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Advaith-C
+- 👀 I’m interested in making amazing web pages
+- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 📫 Reach Me at advaithreddy00@gmail.com
