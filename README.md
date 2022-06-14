@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Advaith-C
 - 👀 I’m interested in making amazing web pages
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m currently learning HTML and CSS and also python
 - 📫 Reach Me at advaithreddy00@gmail.com
